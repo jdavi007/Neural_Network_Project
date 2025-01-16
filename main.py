@@ -19,7 +19,6 @@ sentences = []
 next_characters = []
 
 #Neural Network
-'''
 for i in range(0, len(text) - SEQ_LENGTH, STEP_SIZE):
   sentences.append(text[i: i + SEQ_LENGTH])
   next_characters.append(text[i + SEQ_LENGTH])
@@ -44,7 +43,7 @@ model.fit(x, y, batch_size=256, epochs=4)
 
 #Saves trained NN so dont have to train every run
 model.save('textgenerator.model')
-'''
+
 #Loads saved NN
 model = tensorflow.keras.models.load_model('textgenerator.model')
 
