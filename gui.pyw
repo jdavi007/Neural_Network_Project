@@ -40,7 +40,7 @@ while True:
             \t⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣷⡄⢣⠻⣟⠉⢻⣆⠀⠀⠀⠀⠀
             \t⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣾⣷⣿⣶⣾⣷⣶⣦⡀⠀⠀
             \t⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡄""")
-            #I did not make this I found it on Google
+            # I did not make this ASCII art
             print()
             print()
             print("\t❉⊱•═•⊰❉⊱•═•⊰❉⊱•═•⊰❉⊱•═•⊰❉⊱•═•⊰❉")
